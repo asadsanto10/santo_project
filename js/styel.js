@@ -38,8 +38,8 @@
     autoplay:true,
     autoplaySpeed: 3000,
     mobileFirst: false,
-    prevArrow: '<img src="../img/prev.png" class="previmg" alt=""/>',
-    nextArrow: '<img src="../img/next.png" class="nextimg" alt=""/>',
+    prevArrow: '<img src="img/prev.png" class="previmg" alt=""/>',
+    nextArrow: '<img src="img/next.png" class="nextimg" alt=""/>',
   });
 
   $('.team-caro').slick({
